@@ -1,4 +1,3 @@
-# ====================== KNOWLEDGE BASE ====================== #
 responses = {
     "hi": "Hello there!",
     "bye": "Bye... See you again!"
