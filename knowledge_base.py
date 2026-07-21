@@ -2,47 +2,41 @@
 
 info = {
     "restaurant_name": "Big Plate",
-    "about_restaurant": "🍽️ We're Big Plate! A popular, multi-cuisine restaurant with multiple locations in Sri Lanka (including Kollupitiya, Rajagiriya, and Port City). We're well-known for our large, generous portions and diverse menu that covers everything from Sri Lankan staples like Biryani and Kottu to Arabic Shawarmas, Chinese dishes, and American fast food.",
-    "hotline": "+94 77 035 9400",
-    "email": "marketing@bigplate.lk",
-    "website": "bigplate.lk",
-    "app": "Big Plate",
-    
-    "branches": [
-        {
-            "colombo3": {
-                "name": "Big Plate - Colombo 3",
-                "address": "No 32, Marine Drive, Kollupitiya, Colombo 03",
-                "contact": "+94 77 779 9400"
-            }
-        },
-
-        {
-            "rajagiriya": {
-                "name": "Big Plate - Rajagiriya",
-                "address": "493/1, Sri Jayawardhanepura Mawatha, Kotte",
-                "contact": "+94 77 744 9222"
-            }
-        },
-
-        {
-            "portcity": {
-                "name": "Big Plate - Port City",
-                "address": "Port City Beach Plaza",
-                "contact": "+94 77 795 7795"
-            }
-        }
-    ],
-
-    "socials": {
-        "facebook": "facebook.com/Bigplatelk",
-        "instagram": "instagram.com/bigplate.lk",
-        "website": "bigplate.lk"
-    },
-
+    "about_restaurant": "We're Big Plate! A popular, multi-cuisine restaurant with multiple locations in Sri Lanka.",
     "working_hours": {
         "open": "11:30 AM",
         "close": "12:30 AM"
+    },
+    "hotline": "+94 77 035 9400",
+    "email": "marketing@bigplate.lk",
+    "website": {
+        "name": "bigplate.lk",
+        "url": "https://bigplate.lk/"
+    },
+    "app": "Big Plate",
+    "socials": {
+        "facebook": "facebook.com/Bigplatelk",
+        "instagram": "instagram.com/bigplate.lk",
+    },
+    
+    "branches": {
+        "colombo3": {
+            "name": "Big Plate - Colombo 3",
+            "address": "No 32, Marine Drive, Kollupitiya, Colombo 03",
+            "contact": "+94 77 779 9400"
+        },
+
+        "rajagiriya": {
+            "name": "Big Plate - Rajagiriya",
+            "address": "493/1, Sri Jayawardhanepura Mawatha, Kotte",
+            "contact": "+94 77 744 9222"
+        },
+
+        "portcity": {
+            "name": "Big Plate - Port City",
+            "address": "Port City Beach Plaza",
+            "contact": "+94 77 795 7795"
+        }
     },
 }
 
